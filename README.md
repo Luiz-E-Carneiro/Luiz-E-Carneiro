@@ -1,5 +1,7 @@
 👋 Hi, I'm Luiz Eduardo Carneiro, hailing from BG, RS, Brazil.
 
+🎓 Currently pursuing a course in IT at IFRS - Campus BG, as part of my high school education.
+
 🌍 I aspire to change the world through technology, believing it to be a crucial piece of our future.
 
 🚀 Currently on a learning journey:
