@@ -1,0 +1,18 @@
+👋 Hi, I'm Luiz Eduardo Carneiro, hailing from BG, RS, Brazil.
+
+🌍 I aspire to change the world through technology, believing it to be a crucial piece of our future.
+
+🚀 Currently on a learning journey:
+   - Front-end: HTML, CSS, React.js, JavaScript
+   - Back-end: JavaScript, TypeScript, PHP, Node.js, Python
+   - Database: MySQL
+
+💼 Eager to contribute to meaningful projects that are poised to make a real difference.
+
+📧 Reach out to me at "luizec2006@gmail.com".
+
+Let's code the future together! ✨
+<!---
+Luiz-E-Carneiro/Luiz-E-Carneiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
