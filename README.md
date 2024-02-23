@@ -6,7 +6,7 @@
 
 🚀 Currently on a learning journey:
    - Front-end: HTML, CSS, React.js, JavaScript
-   - Back-end: JavaScript, TypeScript, PHP, Node.js, Python
+   - Back-end: JavaScript, PHP, Node.js
    - Database: MySQL
 
 💼 Eager to contribute to meaningful projects that are poised to make a real difference.
