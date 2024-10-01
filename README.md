@@ -5,7 +5,7 @@
 🌍 I aspire to change the world through technology, believing it to be a crucial piece of our future.
 
 🚀 Currently on a learning journey:
-   - Front-end: HTML, CSS, React.js, and JavaScript;
+   - Front-end: HTML, CSS, and JavaScript (React.js);
    - Back-end: JavaScript (Node JS), and PHP;
    - Database: MySQL.
 
