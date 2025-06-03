@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Luiz Eduardo Carneiro, hailing from BG, RS, Brazil.<br><br>🎓 Currently pursuing a course in IT at IFRS - Campus BG, as part of my high school education.<br><br>🌍 I aspire to change the world through technology, believing it to be a crucial piece of our future.<br><br>🚀 Currently on a learning journey:<br><br>Front-end: HTML, CSS, and JavaScript (React.js);<br>Back-end: JavaScript (Node JS), and PHP;<br>Database: MySQL.<br>💼 Eager to contribute to meaningful projects poised to make a real difference.<br><br>📧 Reach out to me at "luizec2006@gmail.com".<br><br>Let's code the future together!
+👋 Hi, I'm Luiz Eduardo Carneiro, hailing from BG, RS, Brazil.<br><br>🎓 Currently pursuing a course in IT at IFRS - Campus BG, as part of my high school education.<br><br>🌍 I aspire to change the world through technology, believing it to be a crucial piece of our future.<br><br>🚀 Currently on a learning journey:<br><br>Front-end: HTML, CSS, and JavaScript (React.js);<br>Back-end: JavaScript (Node JS), and PHP;<br>Database: MySQL. <br> <br>💼 Eager to contribute to meaningful projects poised to make a real difference.<br><br>📧 Reach out to me at "luizec2006@gmail.com".<br><br>Let's code the future together!
 
 
 # 💻 Tech Stack:
